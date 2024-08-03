@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">防犯ｱﾗｰﾑ+</string>
+    <string name="action_settings">設定</string>
+
+    <string name="preference_title">設定項目</string>
+
+    <string name="auto_alarm_title">自動アラーム</string>
+    <string name="auto_alarm_summary">アラームをアプリ起動時に鳴らす</string>
+
+    <string name="auto_light_title">自動ライト点灯</string>
+    <string name="auto_light_summary">ライトをアプリ起動時に点灯する</string>
+
+    <string name="alarm_stop_title">アラーム停止</string>
+    <string name="alarm_stop_summary">アラームを10回タップで停止する</string>
+
+    <string name="alarm_kind_title">アラーム種類</string>
+    <string name="alarm_kind_summary">アラームの種類を設定する</string>
+    <string name="alarm_kind_dialog">アラーム種類</string>
+
+    <string name="alarm_value_title">アラーム音量</string>
+    <string name="alarm_value_summary">アラームの音量を設定する</string>
+    <string name="alarm_value_dialog">アラーム音量</string>
+
+    <string name="mail_addr1_title">メールアドレス 1</string>
+    <string name="mail_addr2_title">メールアドレス 2</string>
+    <string name="mail_addr3_title">メールアドレス 3</string>
+    <string name="mail_addr4_title">メールアドレス 4</string>
+    <string name="mail_addr5_title">メールアドレス 5</string>
+    <string name="mail_addr_summary">Gmailの送信アドレスを設定する</string>
+    <string name="mail_addr_dialog">メールアドレスの入力</string>
+
+    <string name="mail_title_title">メールタイトル</string>
+    <string name="mail_title_summary">メールのタイトルを設定する</string>
+    <string name="mail_title_dialog">タイトルの入力</string>
+
+    <string name="mail_text_title">メールテキスト</string>
+    <string name="mail_text_summary">メールのテキストを設定する</string>
+    <string name="mail_text_dialog">テキストの入力</string>
+
+    <string-array name="kind_entries_list">
+        <item>警報１</item>
+        <item>警報２</item>
+        <item>警報３</item>
+        <item>警報４</item>
+        <item>警報５</item>
+        <item>着信音１</item>
+        <item>着信音２</item>
+    </string-array>
+    <string-array name="kind_entryvalues_list">
+        <item>kind_1</item>
+        <item>kind_2</item>
+        <item>kind_3</item>
+        <item>kind_4</item>
+        <item>kind_5</item>
+        <item>kind_6</item>
+        <item>kind_7</item>
+    </string-array>
+
+    <string-array name="entries_list">
+        <item>0(ミュート)</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15(最大)</item>
+    </string-array>
+    <string-array name="entryvalues_list">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+
+</resources>

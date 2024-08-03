@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alarme de segurança+</string>
+    <string name="action_settings">configurações</string>
+
+    <string name="preference_title">definir itens</string>
+
+    <string name="auto_alarm_title">alarme automático</string>
+    <string name="auto_alarm_summary">Soar o alarme a inicialização do aplicativo</string>
+
+    <string name="auto_light_title">Luz automática em</string>
+    <string name="auto_light_summary">Acende quando o aplicativo é inicializado</string>
+
+    <string name="alarm_stop_title">parada de alarme</string>
+    <string name="alarm_stop_summary">Parar em 10 vezes tocar o alarme</string>
+
+    <string name="alarm_kind_title">tipo de alarme</string>
+    <string name="alarm_kind_summary">Para definir o tipo de alarme</string>
+    <string name="alarm_kind_dialog">tipo de alarme</string>
+
+    <string name="alarm_value_title">volume do alarme</string>
+    <string name="alarm_value_summary">Para definir o volume do alarme</string>
+    <string name="alarm_value_dialog">volume do alarme</string>
+
+    <string name="mail_addr1_title">endereço de e-mail 1</string>
+    <string name="mail_addr2_title">endereço de e-mail 2</string>
+    <string name="mail_addr3_title">endereço de e-mail 3</string>
+    <string name="mail_addr4_title">endereço de e-mail 4</string>
+    <string name="mail_addr5_title">endereço de e-mail 5</string>
+    <string name="mail_addr_summary">Para configurar um endereço de e-mail</string>
+    <string name="mail_addr_dialog">Entrada do endereço de e-mail</string>
+
+    <string name="mail_title_title">título de E-mail</string>
+    <string name="mail_title_summary">Para configurar um título de e-mail</string>
+    <string name="mail_title_dialog">Entrada de título de e-mail</string>
+
+    <string name="mail_text_title">texto de E-mail</string>
+    <string name="mail_text_summary">Para configurar um texto de e-mail</string>
+    <string name="mail_text_dialog">Entrada de texto de e-mail</string>
+
+    <string-array name="kind_entries_list">
+        <item>alarme 1</item>
+        <item>alarme 2</item>
+        <item>alarme 3</item>
+        <item>alarme 4</item>
+        <item>alarme 5</item>
+        <item>toque 1</item>
+        <item>toque 2</item>
+    </string-array>
+    <string-array name="kind_entryvalues_list">
+        <item>kind_1</item>
+        <item>kind_2</item>
+        <item>kind_3</item>
+        <item>kind_4</item>
+        <item>kind_5</item>
+        <item>kind_6</item>
+        <item>kind_7</item>
+    </string-array>
+
+    <string-array name="entries_list">
+        <item>0(mudo)</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15(máximo)</item>
+    </string-array>
+    <string-array name="entryvalues_list">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+
+
+</resources>

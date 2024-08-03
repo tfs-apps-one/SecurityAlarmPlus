@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/preference_title" >
+    <CheckBoxPreference
+        android:key="auto_alarm"
+        android:title="@string/auto_alarm_title"
+        android:summary="@string/auto_alarm_summary" />
+
+    <CheckBoxPreference
+        android:key="auto_light"
+        android:title="@string/auto_light_title"
+        android:summary="@string/auto_light_summary" />
+
+        <CheckBoxPreference
+        android:key="alarm_stop"
+        android:title="@string/alarm_stop_title"
+        android:summary="@string/alarm_stop_summary" />
+
+    <ListPreference
+        android:key="alarm_kind"
+        android:title="@string/alarm_kind_title"
+        android:summary="@string/alarm_kind_summary"
+        android:entries="@array/kind_entries_list"
+        android:entryValues="@array/kind_entryvalues_list"
+        android:dialogTitle="@string/alarm_kind_dialog" />
+
+        <ListPreference
+        android:key="alarm_value"
+        android:title="@string/alarm_value_title"
+        android:summary="@string/alarm_value_summary"
+        android:entries="@array/entries_list"
+        android:entryValues="@array/entryvalues_list"
+        android:dialogTitle="@string/alarm_value_dialog" />
+
+    <EditTextPreference
+        android:key="mail_title"
+        android:title="@string/mail_title_title"
+        android:summary="@string/mail_title_summary"
+        android:dialogTitle="@string/mail_title_dialog" />
+
+    <EditTextPreference
+        android:key="mail_text"
+        android:title="@string/mail_text_title"
+        android:summary="@string/mail_text_summary"
+        android:dialogTitle="@string/mail_text_dialog" />
+
+    <EditTextPreference
+        android:key="mail_addr1"
+        android:title="@string/mail_addr1_title"
+        android:summary="@string/mail_addr_summary"
+        android:dialogTitle="@string/mail_addr_dialog" />
+    <EditTextPreference
+        android:key="mail_addr2"
+        android:title="@string/mail_addr2_title"
+        android:summary="@string/mail_addr_summary"
+        android:dialogTitle="@string/mail_addr_dialog" />
+    <EditTextPreference
+        android:key="mail_addr3"
+        android:title="@string/mail_addr3_title"
+        android:summary="@string/mail_addr_summary"
+        android:dialogTitle="@string/mail_addr_dialog" />
+    <EditTextPreference
+        android:key="mail_addr4"
+        android:title="@string/mail_addr4_title"
+        android:summary="@string/mail_addr_summary"
+        android:dialogTitle="@string/mail_addr_dialog" />
+    <EditTextPreference
+        android:key="mail_addr5"
+        android:title="@string/mail_addr5_title"
+        android:summary="@string/mail_addr_summary"
+        android:dialogTitle="@string/mail_addr_dialog" />
+
+    </PreferenceCategory>
+</PreferenceScreen>

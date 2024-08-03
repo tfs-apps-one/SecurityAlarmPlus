@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">安全警报+</string>
+    <string name="action_settings">环境</string>
+
+    <string name="preference_title">设置项目</string>
+
+    <string name="auto_alarm_title">自动报警</string>
+    <string name="auto_alarm_summary">声音报警在启动时的时间</string>
+
+    <string name="auto_light_title">自动点亮</string>
+    <string name="auto_light_summary">应用程序启动时点亮</string>
+
+    <string name="alarm_stop_title">报警停机</string>
+    <string name="alarm_stop_summary">停留在10次点击报警</string>
+
+    <string name="alarm_kind_title">报警应用</string>
+    <string name="alarm_kind_summary">要设置报警类型</string>
+    <string name="alarm_kind_dialog">报警应用</string>
+
+    <string name="alarm_value_title">报警音量</string>
+    <string name="alarm_value_summary">要设置闹钟的音量</string>
+    <string name="alarm_value_dialog">报警音量</string>
+
+    <string name="mail_addr1_title">E-mail地址 1</string>
+    <string name="mail_addr2_title">E-mail地址 2</string>
+    <string name="mail_addr3_title">E-mail地址 3</string>
+    <string name="mail_addr4_title">E-mail地址 4</string>
+    <string name="mail_addr5_title">E-mail地址 5</string>
+    <string name="mail_addr_summary">要设置目的地的电子邮件地址</string>
+    <string name="mail_addr_dialog">输入电子邮件地址</string>
+
+    <string name="mail_title_title">邮件标题</string>
+    <string name="mail_title_summary">要设置标题的电子邮件</string>
+    <string name="mail_title_dialog">输入邮件标题</string>
+
+    <string name="mail_text_title">电子邮件正文</string>
+    <string name="mail_text_summary">要设置文本的电子邮件</string>
+    <string name="mail_text_dialog">输入电子邮件正文</string>
+
+    <string-array name="kind_entries_list">
+        <item>报警 1</item>
+        <item>报警 2</item>
+        <item>报警 3</item>
+        <item>报警 4</item>
+        <item>报警 5</item>
+        <item>铃声 1</item>
+        <item>铃声 2</item>
+    </string-array>
+    <string-array name="kind_entryvalues_list">
+        <item>kind_1</item>
+        <item>kind_2</item>
+        <item>kind_3</item>
+        <item>kind_4</item>
+        <item>kind_5</item>
+        <item>kind_6</item>
+        <item>kind_7</item>
+    </string-array>
+
+    <string-array name="entries_list">
+        <item>0(哑)</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15(最大)</item>
+    </string-array>
+    <string-array name="entryvalues_list">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+
+</resources>

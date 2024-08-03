@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alarma de seguridad+</string>
+    <string name="action_settings">ajuste</string>
+
+    <string name="preference_title">elementos de ajuste</string>
+
+    <string name="auto_alarm_title">alarma automática</string>
+    <string name="auto_alarm_summary">La voz de alarma la puesta en marcha de aplicaciones</string>
+
+    <string name="auto_light_title">Luz automática encendida</string>
+    <string name="auto_light_summary">Se ilumina cuando la aplicación se inicia</string>
+
+    <string name="alarm_stop_title">parada de alarma</string>
+    <string name="alarm_stop_summary">Pare en 10 veces la alarma pulse</string>
+
+    <string name="alarm_kind_title">tipo de alarma</string>
+    <string name="alarm_kind_summary">Para establecer el tipo de alarma</string>
+    <string name="alarm_kind_dialog">tipo de alarma</string>
+
+    <string name="alarm_value_title">volumen de alarma</string>
+    <string name="alarm_value_summary">Para ajustar el volumen de la alarma</string>
+    <string name="alarm_value_dialog">volumen de alarma</string>
+
+    <string name="mail_addr1_title">dirección de correo electrónico 1</string>
+    <string name="mail_addr2_title">dirección de correo electrónico 2</string>
+    <string name="mail_addr3_title">dirección de correo electrónico 3</string>
+    <string name="mail_addr4_title">dirección de correo electrónico 4</string>
+    <string name="mail_addr5_title">dirección de correo electrónico 5</string>
+    <string name="mail_addr_summary">Para configurar una dirección de correo electrónico</string>
+    <string name="mail_addr_dialog">De entrada de dirección de correo electrónico</string>
+
+    <string name="mail_title_title">e-mail title</string>
+    <string name="mail_title_summary">Para configurar un título de correo electrónico</string>
+    <string name="mail_title_dialog">De entrada de correo electrónico del título</string>
+
+    <string name="mail_text_title">texto del correo electrónico</string>
+    <string name="mail_text_summary">Para configurar un texto del correo electrónico</string>
+    <string name="mail_text_dialog">Entrada de texto del correo electrónico</string>
+
+    <string-array name="kind_entries_list">
+        <item>alarma 1</item>
+        <item>alarma 2</item>
+        <item>alarma 3</item>
+        <item>alarma 4</item>
+        <item>alarma 5</item>
+        <item>tono 1</item>
+        <item>tono 2</item>
+    </string-array>
+    <string-array name="kind_entryvalues_list">
+        <item>kind_1</item>
+        <item>kind_2</item>
+        <item>kind_3</item>
+        <item>kind_4</item>
+        <item>kind_5</item>
+        <item>kind_6</item>
+        <item>kind_7</item>
+    </string-array>
+
+    <string-array name="entries_list">
+        <item>0(mudo)</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15(máximo)</item>
+    </string-array>
+    <string-array name="entryvalues_list">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+    </resources>
