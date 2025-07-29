@@ -4,14 +4,14 @@ plugins {
 
 android {
     namespace 'tfsapps.securityalarmplus'
-    compileSdk 34
+    compileSdk 35
 
     defaultConfig {
         applicationId "tfsapps.securityalarmplus"
         minSdk 26
-        targetSdk 34
-        versionCode 5
-        versionName "2.5"
+        targetSdk 35
+        versionCode 6
+        versionName "2.6"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
